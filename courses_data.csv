@@ -1,0 +1,38 @@
+course_name,platform,skill_covered,level,price_inr,rating,url
+Python for Everybody,Coursera,Python,Beginner,1499,4.8,https://coursera.org
+Complete Python Bootcamp,Udemy,Python,Beginner,499,4.7,https://udemy.com
+Python Data Science Handbook,O'Reilly,Python,Intermediate,1999,4.6,https://oreilly.com
+SQL for Data Science,Coursera,SQL,Beginner,1299,4.7,https://coursera.org
+The Complete SQL Bootcamp,Udemy,SQL,Beginner,399,4.8,https://udemy.com
+Machine Learning Specialization,Coursera,Machine Learning,Intermediate,3999,4.9,https://coursera.org
+ML A-Z: Hands-On Python & R,Udemy,Machine Learning,Intermediate,599,4.6,https://udemy.com
+Deep Learning Specialization,Coursera,Deep Learning,Advanced,4999,4.9,https://coursera.org
+Practical Deep Learning,fast.ai,Deep Learning,Advanced,0,4.8,https://fast.ai
+NLP with Transformers,Hugging Face,NLP,Advanced,0,4.7,https://huggingface.co
+NLP Specialization,Coursera,NLP,Intermediate,3999,4.8,https://coursera.org
+Transformers for NLP,Udemy,Transformers,Advanced,699,4.6,https://udemy.com
+Data Visualization with Tableau,Coursera,Tableau,Beginner,1799,4.6,https://coursera.org
+Data Visualization with Python,edX,Data Visualization,Intermediate,2499,4.5,https://edx.org
+Power BI Desktop,Udemy,Power BI,Beginner,449,4.7,https://udemy.com
+AWS Solutions Architect,A Cloud Guru,AWS,Intermediate,2999,4.8,https://acloudguru.com
+GCP Professional Data Engineer,Google,GCP,Advanced,3499,4.7,https://cloud.google.com
+Azure Fundamentals AZ-900,Microsoft,Azure,Beginner,1999,4.6,https://learn.microsoft.com
+Docker & Kubernetes: The Guide,Udemy,Docker,Intermediate,599,4.7,https://udemy.com
+Kubernetes for Developers,Linux Foundation,Kubernetes,Advanced,4999,4.8,https://training.linuxfoundation.org
+DevOps Bootcamp,Udemy,CI/CD,Intermediate,699,4.7,https://udemy.com
+Terraform Associate,HashiCorp,Terraform,Intermediate,2999,4.6,https://hashicorp.com
+React — The Complete Guide,Udemy,React,Intermediate,499,4.8,https://udemy.com
+JavaScript Algorithms,Udemy,JavaScript,Beginner,399,4.7,https://udemy.com
+TypeScript Deep Dive,GitHub,TypeScript,Intermediate,0,4.6,https://github.com
+Figma UI/UX Design,Udemy,Figma,Beginner,449,4.8,https://udemy.com
+User Research Methods,Interaction Design,User Research,Beginner,1299,4.5,https://interaction-design.org
+Statistics with Python,Coursera,Statistics,Intermediate,1999,4.6,https://coursera.org
+Bayesian Statistics,edX,Statistics,Advanced,2999,4.5,https://edx.org
+Google Cybersecurity Certificate,Coursera,Network Security,Beginner,3999,4.8,https://coursera.org
+Ethical Hacking Bootcamp,Udemy,Ethical Hacking,Intermediate,699,4.7,https://udemy.com
+SIEM & SOC Analyst Training,Cybrary,SIEM,Intermediate,1999,4.5,https://cybrary.it
+Product Management Fundamentals,Coursera,Product Strategy,Beginner,2499,4.6,https://coursera.org
+Agile with Atlassian Jira,Coursera,Agile,Beginner,999,4.5,https://coursera.org
+Apache Spark with Python,Udemy,Spark,Intermediate,599,4.6,https://udemy.com
+MLOps Specialization,Coursera,MLOps,Advanced,4999,4.8,https://coursera.org
+MLflow for MLOps,Udemy,MLOps,Intermediate,499,4.5,https://udemy.com

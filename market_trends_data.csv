@@ -1,0 +1,1441 @@
+month,skill,demand_index
+2020-01,Python,72.72
+2020-02,Python,72.8
+2020-03,Python,74.93
+2020-04,Python,77.19
+2020-05,Python,75.66
+2020-06,Python,76.66
+2020-07,Python,80.27
+2020-08,Python,80.11
+2020-09,Python,79.32
+2020-10,Python,81.78
+2020-11,Python,81.33
+2020-12,Python,82.33
+2021-01,Python,84.35
+2021-02,Python,82.24
+2021-03,Python,83.52
+2021-04,Python,86.19
+2021-05,Python,86.54
+2021-06,Python,89.45
+2021-07,Python,88.69
+2021-08,Python,88.97
+2021-09,Python,94.11
+2021-10,Python,92.67
+2021-11,Python,94.1
+2021-12,Python,92.95
+2022-01,Python,95.22
+2022-02,Python,97.16
+2022-03,Python,96.34
+2022-04,Python,99.54
+2022-05,Python,99.14
+2022-06,Python,100.58
+2022-07,Python,101.13
+2022-08,Python,105.67
+2022-09,Python,103.98
+2022-10,Python,103.48
+2022-11,Python,107.18
+2022-12,Python,105.24
+2023-01,Python,108.3
+2023-02,Python,106.18
+2023-03,Python,108.09
+2023-04,Python,111.28
+2023-05,Python,113.06
+2023-06,Python,113.25
+2023-07,Python,113.83
+2023-08,Python,114.57
+2023-09,Python,113.87
+2023-10,Python,115.96
+2023-11,Python,117.34
+2023-12,Python,120.52
+2024-01,Python,120.49
+2024-02,Python,118.46
+2024-03,Python,122.47
+2024-04,Python,122.45
+2024-05,Python,123.03
+2024-06,Python,125.88
+2024-07,Python,127.48
+2024-08,Python,128.34
+2024-09,Python,126.79
+2024-10,Python,128.55
+2024-11,Python,130.48
+2024-12,Python,132.4
+2020-01,Machine Learning,54.21
+2020-02,Machine Learning,56.03
+2020-03,Machine Learning,55.84
+2020-04,Machine Learning,57.03
+2020-05,Machine Learning,61.67
+2020-06,Machine Learning,63.9
+2020-07,Machine Learning,62.88
+2020-08,Machine Learning,65.99
+2020-09,Machine Learning,66.26
+2020-10,Machine Learning,65.94
+2020-11,Machine Learning,68.93
+2020-12,Machine Learning,72.2
+2021-01,Machine Learning,70.94
+2021-02,Machine Learning,74.91
+2021-03,Machine Learning,69.34
+2021-04,Machine Learning,76.36
+2021-05,Machine Learning,76.48
+2021-06,Machine Learning,77.17
+2021-07,Machine Learning,79.15
+2021-08,Machine Learning,77.05
+2021-09,Machine Learning,81.3
+2021-10,Machine Learning,83.59
+2021-11,Machine Learning,86.77
+2021-12,Machine Learning,84.81
+2022-01,Machine Learning,85.67
+2022-02,Machine Learning,87.51
+2022-03,Machine Learning,91.18
+2022-04,Machine Learning,91.54
+2022-05,Machine Learning,91.46
+2022-06,Machine Learning,94.51
+2022-07,Machine Learning,95.16
+2022-08,Machine Learning,97.93
+2022-09,Machine Learning,96.51
+2022-10,Machine Learning,98.46
+2022-11,Machine Learning,99.69
+2022-12,Machine Learning,99.25
+2023-01,Machine Learning,103.49
+2023-02,Machine Learning,104.76
+2023-03,Machine Learning,105.68
+2023-04,Machine Learning,106.61
+2023-05,Machine Learning,106.0
+2023-06,Machine Learning,108.97
+2023-07,Machine Learning,110.43
+2023-08,Machine Learning,111.01
+2023-09,Machine Learning,113.4
+2023-10,Machine Learning,115.67
+2023-11,Machine Learning,119.45
+2023-12,Machine Learning,117.95
+2024-01,Machine Learning,119.42
+2024-02,Machine Learning,120.21
+2024-03,Machine Learning,118.5
+2024-04,Machine Learning,122.96
+2024-05,Machine Learning,124.43
+2024-06,Machine Learning,129.73
+2024-07,Machine Learning,126.68
+2024-08,Machine Learning,128.83
+2024-09,Machine Learning,129.61
+2024-10,Machine Learning,129.07
+2024-11,Machine Learning,134.22
+2024-12,Machine Learning,134.91
+2020-01,Deep Learning,41.11
+2020-02,Deep Learning,40.23
+2020-03,Deep Learning,44.96
+2020-04,Deep Learning,42.54
+2020-05,Deep Learning,46.82
+2020-06,Deep Learning,50.57
+2020-07,Deep Learning,47.61
+2020-08,Deep Learning,49.71
+2020-09,Deep Learning,52.14
+2020-10,Deep Learning,52.8
+2020-11,Deep Learning,52.83
+2020-12,Deep Learning,56.6
+2021-01,Deep Learning,56.51
+2021-02,Deep Learning,60.16
+2021-03,Deep Learning,59.71
+2021-04,Deep Learning,64.67
+2021-05,Deep Learning,62.9
+2021-06,Deep Learning,65.05
+2021-07,Deep Learning,68.14
+2021-08,Deep Learning,66.78
+2021-09,Deep Learning,70.32
+2021-10,Deep Learning,73.33
+2021-11,Deep Learning,70.75
+2021-12,Deep Learning,74.76
+2022-01,Deep Learning,76.36
+2022-02,Deep Learning,78.59
+2022-03,Deep Learning,77.27
+2022-04,Deep Learning,78.65
+2022-05,Deep Learning,82.73
+2022-06,Deep Learning,83.92
+2022-07,Deep Learning,85.35
+2022-08,Deep Learning,86.99
+2022-09,Deep Learning,87.05
+2022-10,Deep Learning,89.83
+2022-11,Deep Learning,91.41
+2022-12,Deep Learning,91.5
+2023-01,Deep Learning,96.61
+2023-02,Deep Learning,96.16
+2023-03,Deep Learning,95.33
+2023-04,Deep Learning,99.42
+2023-05,Deep Learning,98.64
+2023-06,Deep Learning,102.6
+2023-07,Deep Learning,104.62
+2023-08,Deep Learning,103.35
+2023-09,Deep Learning,107.35
+2023-10,Deep Learning,108.08
+2023-11,Deep Learning,110.15
+2023-12,Deep Learning,113.16
+2024-01,Deep Learning,111.66
+2024-02,Deep Learning,112.44
+2024-03,Deep Learning,113.75
+2024-04,Deep Learning,115.36
+2024-05,Deep Learning,117.89
+2024-06,Deep Learning,119.98
+2024-07,Deep Learning,121.39
+2024-08,Deep Learning,123.66
+2024-09,Deep Learning,124.02
+2024-10,Deep Learning,127.53
+2024-11,Deep Learning,126.63
+2024-12,Deep Learning,132.31
+2020-01,NLP,30.84
+2020-02,NLP,30.84
+2020-03,NLP,32.55
+2020-04,NLP,36.65
+2020-05,NLP,37.7
+2020-06,NLP,40.96
+2020-07,NLP,42.64
+2020-08,NLP,43.9
+2020-09,NLP,44.86
+2020-10,NLP,45.95
+2020-11,NLP,49.4
+2020-12,NLP,53.16
+2021-01,NLP,54.29
+2021-02,NLP,54.32
+2021-03,NLP,58.23
+2021-04,NLP,60.52
+2021-05,NLP,60.81
+2021-06,NLP,64.21
+2021-07,NLP,66.08
+2021-08,NLP,66.46
+2021-09,NLP,70.48
+2021-10,NLP,72.76
+2021-11,NLP,75.46
+2021-12,NLP,77.42
+2022-01,NLP,76.14
+2022-02,NLP,78.73
+2022-03,NLP,82.7
+2022-04,NLP,84.69
+2022-05,NLP,86.7
+2022-06,NLP,93.2
+2022-07,NLP,90.77
+2022-08,NLP,93.53
+2022-09,NLP,95.29
+2022-10,NLP,96.88
+2022-11,NLP,97.57
+2022-12,NLP,101.02
+2023-01,NLP,100.96
+2023-02,NLP,103.68
+2023-03,NLP,105.34
+2023-04,NLP,108.11
+2023-05,NLP,113.12
+2023-06,NLP,109.48
+2023-07,NLP,114.93
+2023-08,NLP,113.82
+2023-09,NLP,117.36
+2023-10,NLP,121.47
+2023-11,NLP,122.09
+2023-12,NLP,122.55
+2024-01,NLP,125.03
+2024-02,NLP,128.92
+2024-03,NLP,129.01
+2024-04,NLP,132.29
+2024-05,NLP,134.06
+2024-06,NLP,135.12
+2024-07,NLP,140.89
+2024-08,NLP,140.86
+2024-09,NLP,139.27
+2024-10,NLP,144.25
+2024-11,NLP,145.11
+2024-12,NLP,149.15
+2020-01,Transformers,14.29
+2020-02,Transformers,17.9
+2020-03,Transformers,21.45
+2020-04,Transformers,24.78
+2020-05,Transformers,25.92
+2020-06,Transformers,29.7
+2020-07,Transformers,32.57
+2020-08,Transformers,35.41
+2020-09,Transformers,40.59
+2020-10,Transformers,42.36
+2020-11,Transformers,43.87
+2020-12,Transformers,48.83
+2021-01,Transformers,52.91
+2021-02,Transformers,54.93
+2021-03,Transformers,55.63
+2021-04,Transformers,59.56
+2021-05,Transformers,64.14
+2021-06,Transformers,65.36
+2021-07,Transformers,69.4
+2021-08,Transformers,72.7
+2021-09,Transformers,74.17
+2021-10,Transformers,77.95
+2021-11,Transformers,78.08
+2021-12,Transformers,83.08
+2022-01,Transformers,86.77
+2022-02,Transformers,88.88
+2022-03,Transformers,94.47
+2022-04,Transformers,94.71
+2022-05,Transformers,98.6
+2022-06,Transformers,102.12
+2022-07,Transformers,106.3
+2022-08,Transformers,106.71
+2022-09,Transformers,112.05
+2022-10,Transformers,114.01
+2022-11,Transformers,116.12
+2022-12,Transformers,120.42
+2023-01,Transformers,123.18
+2023-02,Transformers,125.46
+2023-03,Transformers,129.06
+2023-04,Transformers,131.65
+2023-05,Transformers,135.1
+2023-06,Transformers,138.6
+2023-07,Transformers,142.43
+2023-08,Transformers,142.89
+2023-09,Transformers,148.92
+2023-10,Transformers,148.24
+2023-11,Transformers,152.86
+2023-12,Transformers,156.53
+2024-01,Transformers,159.25
+2024-02,Transformers,161.44
+2024-03,Transformers,164.81
+2024-04,Transformers,167.56
+2024-05,Transformers,170.47
+2024-06,Transformers,174.76
+2024-07,Transformers,177.32
+2024-08,Transformers,179.38
+2024-09,Transformers,183.81
+2024-10,Transformers,186.28
+2024-11,Transformers,189.73
+2024-12,Transformers,192.57
+2020-01,MLOps,19.17
+2020-02,MLOps,21.77
+2020-03,MLOps,25.41
+2020-04,MLOps,27.61
+2020-05,MLOps,29.31
+2020-06,MLOps,31.78
+2020-07,MLOps,35.28
+2020-08,MLOps,35.74
+2020-09,MLOps,39.21
+2020-10,MLOps,40.8
+2020-11,MLOps,43.12
+2020-12,MLOps,46.77
+2021-01,MLOps,48.83
+2021-02,MLOps,51.15
+2021-03,MLOps,53.97
+2021-04,MLOps,55.02
+2021-05,MLOps,58.02
+2021-06,MLOps,59.36
+2021-07,MLOps,62.32
+2021-08,MLOps,64.2
+2021-09,MLOps,66.76
+2021-10,MLOps,69.6
+2021-11,MLOps,70.52
+2021-12,MLOps,75.76
+2022-01,MLOps,74.99
+2022-02,MLOps,77.12
+2022-03,MLOps,81.82
+2022-04,MLOps,83.79
+2022-05,MLOps,85.96
+2022-06,MLOps,88.3
+2022-07,MLOps,89.99
+2022-08,MLOps,91.44
+2022-09,MLOps,94.74
+2022-10,MLOps,96.32
+2022-11,MLOps,100.31
+2022-12,MLOps,101.52
+2023-01,MLOps,103.17
+2023-02,MLOps,106.01
+2023-03,MLOps,109.08
+2023-04,MLOps,110.44
+2023-05,MLOps,112.51
+2023-06,MLOps,115.91
+2023-07,MLOps,118.24
+2023-08,MLOps,119.83
+2023-09,MLOps,122.2
+2023-10,MLOps,125.23
+2023-11,MLOps,125.89
+2023-12,MLOps,128.26
+2024-01,MLOps,131.28
+2024-02,MLOps,134.12
+2024-03,MLOps,136.98
+2024-04,MLOps,140.48
+2024-05,MLOps,142.19
+2024-06,MLOps,143.51
+2024-07,MLOps,145.98
+2024-08,MLOps,147.33
+2024-09,MLOps,150.65
+2024-10,MLOps,152.71
+2024-11,MLOps,155.66
+2024-12,MLOps,156.84
+2020-01,AWS,65.51
+2020-02,AWS,67.33
+2020-03,AWS,66.56
+2020-04,AWS,67.89
+2020-05,AWS,69.01
+2020-06,AWS,68.78
+2020-07,AWS,70.22
+2020-08,AWS,70.85
+2020-09,AWS,71.76
+2020-10,AWS,71.75
+2020-11,AWS,73.36
+2020-12,AWS,74.65
+2021-01,AWS,76.41
+2021-02,AWS,76.77
+2021-03,AWS,78.77
+2021-04,AWS,76.75
+2021-05,AWS,79.18
+2021-06,AWS,79.35
+2021-07,AWS,82.14
+2021-08,AWS,80.05
+2021-09,AWS,80.85
+2021-10,AWS,81.92
+2021-11,AWS,81.26
+2021-12,AWS,83.65
+2022-01,AWS,84.26
+2022-02,AWS,85.98
+2022-03,AWS,87.0
+2022-04,AWS,89.33
+2022-05,AWS,89.26
+2022-06,AWS,88.6
+2022-07,AWS,89.12
+2022-08,AWS,91.31
+2022-09,AWS,90.38
+2022-10,AWS,94.29
+2022-11,AWS,94.48
+2022-12,AWS,93.71
+2023-01,AWS,93.33
+2023-02,AWS,97.15
+2023-03,AWS,96.55
+2023-04,AWS,98.71
+2023-05,AWS,96.78
+2023-06,AWS,98.58
+2023-07,AWS,100.01
+2023-08,AWS,100.88
+2023-09,AWS,101.23
+2023-10,AWS,103.11
+2023-11,AWS,102.29
+2023-12,AWS,104.03
+2024-01,AWS,105.12
+2024-02,AWS,106.33
+2024-03,AWS,107.36
+2024-04,AWS,106.4
+2024-05,AWS,106.84
+2024-06,AWS,110.41
+2024-07,AWS,110.32
+2024-08,AWS,110.1
+2024-09,AWS,113.18
+2024-10,AWS,112.61
+2024-11,AWS,114.48
+2024-12,AWS,114.23
+2020-01,GCP,31.55
+2020-02,GCP,32.48
+2020-03,GCP,32.15
+2020-04,GCP,34.23
+2020-05,GCP,35.15
+2020-06,GCP,36.86
+2020-07,GCP,36.28
+2020-08,GCP,38.68
+2020-09,GCP,40.13
+2020-10,GCP,39.18
+2020-11,GCP,40.78
+2020-12,GCP,41.3
+2021-01,GCP,43.8
+2021-02,GCP,45.7
+2021-03,GCP,47.46
+2021-04,GCP,47.56
+2021-05,GCP,49.89
+2021-06,GCP,48.8
+2021-07,GCP,49.72
+2021-08,GCP,52.13
+2021-09,GCP,53.62
+2021-10,GCP,54.48
+2021-11,GCP,54.12
+2021-12,GCP,56.77
+2022-01,GCP,57.02
+2022-02,GCP,59.67
+2022-03,GCP,60.61
+2022-04,GCP,60.8
+2022-05,GCP,62.28
+2022-06,GCP,63.04
+2022-07,GCP,64.95
+2022-08,GCP,66.88
+2022-09,GCP,66.59
+2022-10,GCP,68.88
+2022-11,GCP,69.27
+2022-12,GCP,70.24
+2023-01,GCP,71.92
+2023-02,GCP,72.39
+2023-03,GCP,73.92
+2023-04,GCP,74.6
+2023-05,GCP,78.14
+2023-06,GCP,77.86
+2023-07,GCP,78.48
+2023-08,GCP,80.33
+2023-09,GCP,81.25
+2023-10,GCP,82.33
+2023-11,GCP,84.13
+2023-12,GCP,85.4
+2024-01,GCP,85.6
+2024-02,GCP,86.73
+2024-03,GCP,88.13
+2024-04,GCP,87.77
+2024-05,GCP,89.53
+2024-06,GCP,92.86
+2024-07,GCP,94.23
+2024-08,GCP,93.98
+2024-09,GCP,95.77
+2024-10,GCP,96.73
+2024-11,GCP,99.98
+2024-12,GCP,99.67
+2020-01,Azure,41.89
+2020-02,Azure,42.2
+2020-03,Azure,42.65
+2020-04,Azure,45.17
+2020-05,Azure,45.36
+2020-06,Azure,45.81
+2020-07,Azure,47.46
+2020-08,Azure,48.09
+2020-09,Azure,51.42
+2020-10,Azure,51.74
+2020-11,Azure,51.99
+2020-12,Azure,54.24
+2021-01,Azure,54.06
+2021-02,Azure,54.28
+2021-03,Azure,57.28
+2021-04,Azure,57.45
+2021-05,Azure,57.13
+2021-06,Azure,58.84
+2021-07,Azure,59.26
+2021-08,Azure,59.84
+2021-09,Azure,62.78
+2021-10,Azure,64.6
+2021-11,Azure,62.83
+2021-12,Azure,65.47
+2022-01,Azure,65.45
+2022-02,Azure,66.59
+2022-03,Azure,67.5
+2022-04,Azure,68.27
+2022-05,Azure,70.04
+2022-06,Azure,70.3
+2022-07,Azure,72.23
+2022-08,Azure,72.96
+2022-09,Azure,73.8
+2022-10,Azure,74.24
+2022-11,Azure,75.52
+2022-12,Azure,77.63
+2023-01,Azure,78.42
+2023-02,Azure,78.18
+2023-03,Azure,80.08
+2023-04,Azure,81.63
+2023-05,Azure,80.6
+2023-06,Azure,83.46
+2023-07,Azure,83.44
+2023-08,Azure,85.48
+2023-09,Azure,85.36
+2023-10,Azure,85.48
+2023-11,Azure,86.63
+2023-12,Azure,89.04
+2024-01,Azure,90.22
+2024-02,Azure,90.24
+2024-03,Azure,92.54
+2024-04,Azure,91.6
+2024-05,Azure,93.94
+2024-06,Azure,93.98
+2024-07,Azure,95.45
+2024-08,Azure,97.04
+2024-09,Azure,97.28
+2024-10,Azure,98.68
+2024-11,Azure,100.85
+2024-12,Azure,100.52
+2020-01,Kubernetes,35.88
+2020-02,Kubernetes,35.15
+2020-03,Kubernetes,38.22
+2020-04,Kubernetes,40.51
+2020-05,Kubernetes,37.74
+2020-06,Kubernetes,40.83
+2020-07,Kubernetes,43.61
+2020-08,Kubernetes,44.12
+2020-09,Kubernetes,46.06
+2020-10,Kubernetes,46.37
+2020-11,Kubernetes,48.42
+2020-12,Kubernetes,49.5
+2021-01,Kubernetes,52.23
+2021-02,Kubernetes,52.6
+2021-03,Kubernetes,54.02
+2021-04,Kubernetes,54.57
+2021-05,Kubernetes,55.82
+2021-06,Kubernetes,57.21
+2021-07,Kubernetes,59.41
+2021-08,Kubernetes,59.89
+2021-09,Kubernetes,61.97
+2021-10,Kubernetes,65.18
+2021-11,Kubernetes,65.25
+2021-12,Kubernetes,65.32
+2022-01,Kubernetes,68.26
+2022-02,Kubernetes,67.9
+2022-03,Kubernetes,67.53
+2022-04,Kubernetes,69.94
+2022-05,Kubernetes,70.37
+2022-06,Kubernetes,73.3
+2022-07,Kubernetes,75.02
+2022-08,Kubernetes,78.09
+2022-09,Kubernetes,78.01
+2022-10,Kubernetes,78.77
+2022-11,Kubernetes,81.2
+2022-12,Kubernetes,79.34
+2023-01,Kubernetes,83.25
+2023-02,Kubernetes,85.14
+2023-03,Kubernetes,84.11
+2023-04,Kubernetes,88.2
+2023-05,Kubernetes,88.69
+2023-06,Kubernetes,89.23
+2023-07,Kubernetes,91.66
+2023-08,Kubernetes,94.72
+2023-09,Kubernetes,93.86
+2023-10,Kubernetes,95.26
+2023-11,Kubernetes,95.85
+2023-12,Kubernetes,96.77
+2024-01,Kubernetes,99.87
+2024-02,Kubernetes,99.43
+2024-03,Kubernetes,101.74
+2024-04,Kubernetes,102.5
+2024-05,Kubernetes,104.84
+2024-06,Kubernetes,106.02
+2024-07,Kubernetes,108.09
+2024-08,Kubernetes,107.8
+2024-09,Kubernetes,109.38
+2024-10,Kubernetes,109.97
+2024-11,Kubernetes,111.87
+2024-12,Kubernetes,114.06
+2020-01,Docker,50.57
+2020-02,Docker,50.14
+2020-03,Docker,52.32
+2020-04,Docker,53.52
+2020-05,Docker,53.64
+2020-06,Docker,55.57
+2020-07,Docker,54.42
+2020-08,Docker,54.9
+2020-09,Docker,55.33
+2020-10,Docker,58.62
+2020-11,Docker,58.82
+2020-12,Docker,59.12
+2021-01,Docker,60.21
+2021-02,Docker,59.99
+2021-03,Docker,63.5
+2021-04,Docker,62.6
+2021-05,Docker,63.42
+2021-06,Docker,64.71
+2021-07,Docker,65.36
+2021-08,Docker,66.0
+2021-09,Docker,66.07
+2021-10,Docker,67.85
+2021-11,Docker,69.74
+2021-12,Docker,70.18
+2022-01,Docker,71.19
+2022-02,Docker,70.45
+2022-03,Docker,70.92
+2022-04,Docker,72.41
+2022-05,Docker,73.38
+2022-06,Docker,74.99
+2022-07,Docker,73.73
+2022-08,Docker,76.98
+2022-09,Docker,76.55
+2022-10,Docker,77.18
+2022-11,Docker,77.57
+2022-12,Docker,77.93
+2023-01,Docker,80.62
+2023-02,Docker,80.89
+2023-03,Docker,80.7
+2023-04,Docker,81.53
+2023-05,Docker,83.08
+2023-06,Docker,85.42
+2023-07,Docker,84.81
+2023-08,Docker,84.71
+2023-09,Docker,86.48
+2023-10,Docker,87.3
+2023-11,Docker,86.31
+2023-12,Docker,89.13
+2024-01,Docker,89.83
+2024-02,Docker,91.36
+2024-03,Docker,93.05
+2024-04,Docker,93.34
+2024-05,Docker,93.13
+2024-06,Docker,93.34
+2024-07,Docker,96.93
+2024-08,Docker,95.88
+2024-09,Docker,96.68
+2024-10,Docker,97.48
+2024-11,Docker,98.48
+2024-12,Docker,99.06
+2020-01,Terraform,21.56
+2020-02,Terraform,23.25
+2020-03,Terraform,25.31
+2020-04,Terraform,26.58
+2020-05,Terraform,28.12
+2020-06,Terraform,30.42
+2020-07,Terraform,31.8
+2020-08,Terraform,34.82
+2020-09,Terraform,33.29
+2020-10,Terraform,37.84
+2020-11,Terraform,39.63
+2020-12,Terraform,38.74
+2021-01,Terraform,41.74
+2021-02,Terraform,43.38
+2021-03,Terraform,44.25
+2021-04,Terraform,46.4
+2021-05,Terraform,47.81
+2021-06,Terraform,51.68
+2021-07,Terraform,52.72
+2021-08,Terraform,54.65
+2021-09,Terraform,55.89
+2021-10,Terraform,56.13
+2021-11,Terraform,58.26
+2021-12,Terraform,60.71
+2022-01,Terraform,61.06
+2022-02,Terraform,64.22
+2022-03,Terraform,65.15
+2022-04,Terraform,66.71
+2022-05,Terraform,69.21
+2022-06,Terraform,70.68
+2022-07,Terraform,71.72
+2022-08,Terraform,74.56
+2022-09,Terraform,74.5
+2022-10,Terraform,77.47
+2022-11,Terraform,79.12
+2022-12,Terraform,80.09
+2023-01,Terraform,82.25
+2023-02,Terraform,82.7
+2023-03,Terraform,86.04
+2023-04,Terraform,86.86
+2023-05,Terraform,88.26
+2023-06,Terraform,91.14
+2023-07,Terraform,91.46
+2023-08,Terraform,92.58
+2023-09,Terraform,94.13
+2023-10,Terraform,97.47
+2023-11,Terraform,97.68
+2023-12,Terraform,101.68
+2024-01,Terraform,100.4
+2024-02,Terraform,104.97
+2024-03,Terraform,105.5
+2024-04,Terraform,106.93
+2024-05,Terraform,108.25
+2024-06,Terraform,110.64
+2024-07,Terraform,111.97
+2024-08,Terraform,114.52
+2024-09,Terraform,115.42
+2024-10,Terraform,117.12
+2024-11,Terraform,118.39
+2024-12,Terraform,120.29
+2020-01,SQL,80.12
+2020-02,SQL,79.65
+2020-03,SQL,80.13
+2020-04,SQL,81.3
+2020-05,SQL,81.4
+2020-06,SQL,81.59
+2020-07,SQL,82.01
+2020-08,SQL,82.47
+2020-09,SQL,82.45
+2020-10,SQL,82.69
+2020-11,SQL,83.41
+2020-12,SQL,83.28
+2021-01,SQL,84.16
+2021-02,SQL,83.65
+2021-03,SQL,85.08
+2021-04,SQL,85.19
+2021-05,SQL,85.44
+2021-06,SQL,86.06
+2021-07,SQL,86.67
+2021-08,SQL,86.74
+2021-09,SQL,85.93
+2021-10,SQL,86.49
+2021-11,SQL,87.08
+2021-12,SQL,87.68
+2022-01,SQL,88.21
+2022-02,SQL,88.04
+2022-03,SQL,88.74
+2022-04,SQL,88.7
+2022-05,SQL,89.09
+2022-06,SQL,89.1
+2022-07,SQL,89.63
+2022-08,SQL,89.79
+2022-09,SQL,90.28
+2022-10,SQL,91.42
+2022-11,SQL,90.95
+2022-12,SQL,92.72
+2023-01,SQL,92.2
+2023-02,SQL,92.41
+2023-03,SQL,92.32
+2023-04,SQL,93.28
+2023-05,SQL,93.1
+2023-06,SQL,93.72
+2023-07,SQL,95.02
+2023-08,SQL,94.29
+2023-09,SQL,95.13
+2023-10,SQL,94.72
+2023-11,SQL,95.32
+2023-12,SQL,96.37
+2024-01,SQL,95.75
+2024-02,SQL,97.06
+2024-03,SQL,96.95
+2024-04,SQL,96.78
+2024-05,SQL,97.59
+2024-06,SQL,98.06
+2024-07,SQL,98.25
+2024-08,SQL,97.71
+2024-09,SQL,98.38
+2024-10,SQL,98.9
+2024-11,SQL,99.3
+2024-12,SQL,99.91
+2020-01,Spark,38.07
+2020-02,Spark,38.16
+2020-03,Spark,39.48
+2020-04,Spark,40.23
+2020-05,Spark,40.88
+2020-06,Spark,41.74
+2020-07,Spark,42.32
+2020-08,Spark,42.84
+2020-09,Spark,43.31
+2020-10,Spark,43.37
+2020-11,Spark,44.83
+2020-12,Spark,45.41
+2021-01,Spark,46.1
+2021-02,Spark,46.18
+2021-03,Spark,46.92
+2021-04,Spark,48.4
+2021-05,Spark,48.65
+2021-06,Spark,49.59
+2021-07,Spark,50.01
+2021-08,Spark,50.68
+2021-09,Spark,51.69
+2021-10,Spark,51.8
+2021-11,Spark,52.7
+2021-12,Spark,53.16
+2022-01,Spark,53.83
+2022-02,Spark,54.55
+2022-03,Spark,55.42
+2022-04,Spark,55.82
+2022-05,Spark,57.14
+2022-06,Spark,56.99
+2022-07,Spark,57.93
+2022-08,Spark,58.5
+2022-09,Spark,59.88
+2022-10,Spark,60.07
+2022-11,Spark,61.06
+2022-12,Spark,60.77
+2023-01,Spark,62.1
+2023-02,Spark,63.0
+2023-03,Spark,63.36
+2023-04,Spark,64.4
+2023-05,Spark,64.47
+2023-06,Spark,65.87
+2023-07,Spark,66.87
+2023-08,Spark,66.53
+2023-09,Spark,67.16
+2023-10,Spark,68.55
+2023-11,Spark,69.27
+2023-12,Spark,69.13
+2024-01,Spark,69.84
+2024-02,Spark,70.56
+2024-03,Spark,70.82
+2024-04,Spark,71.65
+2024-05,Spark,72.29
+2024-06,Spark,73.04
+2024-07,Spark,73.99
+2024-08,Spark,74.76
+2024-09,Spark,75.92
+2024-10,Spark,75.62
+2024-11,Spark,77.04
+2024-12,Spark,77.25
+2020-01,Tableau,41.99
+2020-02,Tableau,42.64
+2020-03,Tableau,42.76
+2020-04,Tableau,43.58
+2020-05,Tableau,44.03
+2020-06,Tableau,44.6
+2020-07,Tableau,45.06
+2020-08,Tableau,46.02
+2020-09,Tableau,45.87
+2020-10,Tableau,46.39
+2020-11,Tableau,46.87
+2020-12,Tableau,47.38
+2021-01,Tableau,47.87
+2021-02,Tableau,48.75
+2021-03,Tableau,49.3
+2021-04,Tableau,49.38
+2021-05,Tableau,49.83
+2021-06,Tableau,50.6
+2021-07,Tableau,50.88
+2021-08,Tableau,51.63
+2021-09,Tableau,52.04
+2021-10,Tableau,52.18
+2021-11,Tableau,53.32
+2021-12,Tableau,53.88
+2022-01,Tableau,53.87
+2022-02,Tableau,54.42
+2022-03,Tableau,55.06
+2022-04,Tableau,55.57
+2022-05,Tableau,56.14
+2022-06,Tableau,56.92
+2022-07,Tableau,56.96
+2022-08,Tableau,57.33
+2022-09,Tableau,57.71
+2022-10,Tableau,58.35
+2022-11,Tableau,58.99
+2022-12,Tableau,59.88
+2023-01,Tableau,59.89
+2023-02,Tableau,60.55
+2023-03,Tableau,61.0
+2023-04,Tableau,61.75
+2023-05,Tableau,62.53
+2023-06,Tableau,62.39
+2023-07,Tableau,62.9
+2023-08,Tableau,63.72
+2023-09,Tableau,64.14
+2023-10,Tableau,64.89
+2023-11,Tableau,65.12
+2023-12,Tableau,65.42
+2024-01,Tableau,66.12
+2024-02,Tableau,66.73
+2024-03,Tableau,67.17
+2024-04,Tableau,67.61
+2024-05,Tableau,68.22
+2024-06,Tableau,68.75
+2024-07,Tableau,69.29
+2024-08,Tableau,69.64
+2024-09,Tableau,69.96
+2024-10,Tableau,70.53
+2024-11,Tableau,71.25
+2024-12,Tableau,71.33
+2020-01,Power BI,38.21
+2020-02,Power BI,38.61
+2020-03,Power BI,39.68
+2020-04,Power BI,41.23
+2020-05,Power BI,41.44
+2020-06,Power BI,42.19
+2020-07,Power BI,42.22
+2020-08,Power BI,44.26
+2020-09,Power BI,45.03
+2020-10,Power BI,46.73
+2020-11,Power BI,46.16
+2020-12,Power BI,47.29
+2021-01,Power BI,48.14
+2021-02,Power BI,49.73
+2021-03,Power BI,49.61
+2021-04,Power BI,50.66
+2021-05,Power BI,51.68
+2021-06,Power BI,52.27
+2021-07,Power BI,52.75
+2021-08,Power BI,53.94
+2021-09,Power BI,55.28
+2021-10,Power BI,54.91
+2021-11,Power BI,56.41
+2021-12,Power BI,56.77
+2022-01,Power BI,58.68
+2022-02,Power BI,57.97
+2022-03,Power BI,59.35
+2022-04,Power BI,60.72
+2022-05,Power BI,62.23
+2022-06,Power BI,62.13
+2022-07,Power BI,62.68
+2022-08,Power BI,64.91
+2022-09,Power BI,63.84
+2022-10,Power BI,64.25
+2022-11,Power BI,66.58
+2022-12,Power BI,66.88
+2023-01,Power BI,67.42
+2023-02,Power BI,69.24
+2023-03,Power BI,69.81
+2023-04,Power BI,70.18
+2023-05,Power BI,70.6
+2023-06,Power BI,72.66
+2023-07,Power BI,73.37
+2023-08,Power BI,73.78
+2023-09,Power BI,75.72
+2023-10,Power BI,74.89
+2023-11,Power BI,75.46
+2023-12,Power BI,76.77
+2024-01,Power BI,77.97
+2024-02,Power BI,78.97
+2024-03,Power BI,79.53
+2024-04,Power BI,80.7
+2024-05,Power BI,80.62
+2024-06,Power BI,82.99
+2024-07,Power BI,82.95
+2024-08,Power BI,84.47
+2024-09,Power BI,84.86
+2024-10,Power BI,85.76
+2024-11,Power BI,86.66
+2024-12,Power BI,87.42
+2020-01,React,55.35
+2020-02,React,56.4
+2020-03,React,56.44
+2020-04,React,57.39
+2020-05,React,57.62
+2020-06,React,59.13
+2020-07,React,58.63
+2020-08,React,60.66
+2020-09,React,60.31
+2020-10,React,60.21
+2020-11,React,61.74
+2020-12,React,61.96
+2021-01,React,63.46
+2021-02,React,63.31
+2021-03,React,64.09
+2021-04,React,63.96
+2021-05,React,65.42
+2021-06,React,65.0
+2021-07,React,66.13
+2021-08,React,68.08
+2021-09,React,68.77
+2021-10,React,69.23
+2021-11,React,69.13
+2021-12,React,70.31
+2022-01,React,71.0
+2022-02,React,71.03
+2022-03,React,73.16
+2022-04,React,73.48
+2022-05,React,73.55
+2022-06,React,74.35
+2022-07,React,75.11
+2022-08,React,74.54
+2022-09,React,76.2
+2022-10,React,76.62
+2022-11,React,77.12
+2022-12,React,78.18
+2023-01,React,79.99
+2023-02,React,80.02
+2023-03,React,80.02
+2023-04,React,81.31
+2023-05,React,82.44
+2023-06,React,82.84
+2023-07,React,83.03
+2023-08,React,83.31
+2023-09,React,84.72
+2023-10,React,85.22
+2023-11,React,86.16
+2023-12,React,86.68
+2024-01,React,87.58
+2024-02,React,87.37
+2024-03,React,89.06
+2024-04,React,89.11
+2024-05,React,90.81
+2024-06,React,89.95
+2024-07,React,91.95
+2024-08,React,91.78
+2024-09,React,91.98
+2024-10,React,92.73
+2024-11,React,93.49
+2024-12,React,94.57
+2020-01,TypeScript,40.52
+2020-02,TypeScript,40.59
+2020-03,TypeScript,42.31
+2020-04,TypeScript,45.64
+2020-05,TypeScript,46.39
+2020-06,TypeScript,46.27
+2020-07,TypeScript,47.04
+2020-08,TypeScript,48.29
+2020-09,TypeScript,49.95
+2020-10,TypeScript,49.48
+2020-11,TypeScript,51.41
+2020-12,TypeScript,51.16
+2021-01,TypeScript,54.4
+2021-02,TypeScript,55.81
+2021-03,TypeScript,55.85
+2021-04,TypeScript,59.07
+2021-05,TypeScript,57.44
+2021-06,TypeScript,58.37
+2021-07,TypeScript,61.22
+2021-08,TypeScript,63.21
+2021-09,TypeScript,65.02
+2021-10,TypeScript,64.04
+2021-11,TypeScript,66.75
+2021-12,TypeScript,66.79
+2022-01,TypeScript,67.83
+2022-02,TypeScript,70.05
+2022-03,TypeScript,70.99
+2022-04,TypeScript,69.92
+2022-05,TypeScript,74.14
+2022-06,TypeScript,75.21
+2022-07,TypeScript,74.37
+2022-08,TypeScript,76.56
+2022-09,TypeScript,77.83
+2022-10,TypeScript,78.76
+2022-11,TypeScript,79.12
+2022-12,TypeScript,80.16
+2023-01,TypeScript,81.97
+2023-02,TypeScript,84.34
+2023-03,TypeScript,84.88
+2023-04,TypeScript,85.13
+2023-05,TypeScript,87.44
+2023-06,TypeScript,84.98
+2023-07,TypeScript,90.15
+2023-08,TypeScript,88.43
+2023-09,TypeScript,90.97
+2023-10,TypeScript,91.38
+2023-11,TypeScript,92.37
+2023-12,TypeScript,95.99
+2024-01,TypeScript,95.53
+2024-02,TypeScript,97.51
+2024-03,TypeScript,98.29
+2024-04,TypeScript,99.98
+2024-05,TypeScript,100.74
+2024-06,TypeScript,100.55
+2024-07,TypeScript,104.0
+2024-08,TypeScript,103.67
+2024-09,TypeScript,103.78
+2024-10,TypeScript,106.07
+2024-11,TypeScript,109.17
+2024-12,TypeScript,109.68
+2020-01,JavaScript,74.87
+2020-02,JavaScript,75.2
+2020-03,JavaScript,75.55
+2020-04,JavaScript,76.78
+2020-05,JavaScript,76.48
+2020-06,JavaScript,76.83
+2020-07,JavaScript,77.39
+2020-08,JavaScript,77.42
+2020-09,JavaScript,77.57
+2020-10,JavaScript,77.93
+2020-11,JavaScript,78.31
+2020-12,JavaScript,78.65
+2021-01,JavaScript,79.27
+2021-02,JavaScript,79.35
+2021-03,JavaScript,79.94
+2021-04,JavaScript,79.97
+2021-05,JavaScript,80.36
+2021-06,JavaScript,79.92
+2021-07,JavaScript,81.34
+2021-08,JavaScript,81.46
+2021-09,JavaScript,82.04
+2021-10,JavaScript,80.91
+2021-11,JavaScript,83.12
+2021-12,JavaScript,82.61
+2022-01,JavaScript,83.42
+2022-02,JavaScript,82.94
+2022-03,JavaScript,83.9
+2022-04,JavaScript,83.6
+2022-05,JavaScript,84.1
+2022-06,JavaScript,85.38
+2022-07,JavaScript,84.93
+2022-08,JavaScript,85.41
+2022-09,JavaScript,85.99
+2022-10,JavaScript,86.19
+2022-11,JavaScript,86.39
+2022-12,JavaScript,86.8
+2023-01,JavaScript,87.9
+2023-02,JavaScript,87.31
+2023-03,JavaScript,87.74
+2023-04,JavaScript,88.39
+2023-05,JavaScript,88.75
+2023-06,JavaScript,89.11
+2023-07,JavaScript,89.24
+2023-08,JavaScript,88.9
+2023-09,JavaScript,90.28
+2023-10,JavaScript,89.57
+2023-11,JavaScript,90.45
+2023-12,JavaScript,90.38
+2024-01,JavaScript,90.98
+2024-02,JavaScript,91.46
+2024-03,JavaScript,91.79
+2024-04,JavaScript,92.16
+2024-05,JavaScript,92.94
+2024-06,JavaScript,92.84
+2024-07,JavaScript,92.91
+2024-08,JavaScript,93.69
+2024-09,JavaScript,94.11
+2024-10,JavaScript,93.54
+2024-11,JavaScript,94.56
+2024-12,JavaScript,94.93
+2020-01,Node.js,47.86
+2020-02,Node.js,49.16
+2020-03,Node.js,48.93
+2020-04,Node.js,49.56
+2020-05,Node.js,49.92
+2020-06,Node.js,50.51
+2020-07,Node.js,50.47
+2020-08,Node.js,50.81
+2020-09,Node.js,52.77
+2020-10,Node.js,52.09
+2020-11,Node.js,52.52
+2020-12,Node.js,52.47
+2021-01,Node.js,53.69
+2021-02,Node.js,53.86
+2021-03,Node.js,55.79
+2021-04,Node.js,55.98
+2021-05,Node.js,55.67
+2021-06,Node.js,57.58
+2021-07,Node.js,57.47
+2021-08,Node.js,57.34
+2021-09,Node.js,56.8
+2021-10,Node.js,59.6
+2021-11,Node.js,58.33
+2021-12,Node.js,58.71
+2022-01,Node.js,60.49
+2022-02,Node.js,61.67
+2022-03,Node.js,61.66
+2022-04,Node.js,61.77
+2022-05,Node.js,62.29
+2022-06,Node.js,62.91
+2022-07,Node.js,63.36
+2022-08,Node.js,63.63
+2022-09,Node.js,64.05
+2022-10,Node.js,64.47
+2022-11,Node.js,64.64
+2022-12,Node.js,65.37
+2023-01,Node.js,65.19
+2023-02,Node.js,66.45
+2023-03,Node.js,66.53
+2023-04,Node.js,66.97
+2023-05,Node.js,68.09
+2023-06,Node.js,69.17
+2023-07,Node.js,69.44
+2023-08,Node.js,68.75
+2023-09,Node.js,69.52
+2023-10,Node.js,70.95
+2023-11,Node.js,70.53
+2023-12,Node.js,71.39
+2024-01,Node.js,72.26
+2024-02,Node.js,72.04
+2024-03,Node.js,73.05
+2024-04,Node.js,72.86
+2024-05,Node.js,73.71
+2024-06,Node.js,74.65
+2024-07,Node.js,74.24
+2024-08,Node.js,75.71
+2024-09,Node.js,75.99
+2024-10,Node.js,76.77
+2024-11,Node.js,77.11
+2024-12,Node.js,78.15
+2020-01,Figma,35.09
+2020-02,Figma,35.7
+2020-03,Figma,37.09
+2020-04,Figma,38.38
+2020-05,Figma,39.03
+2020-06,Figma,40.03
+2020-07,Figma,40.51
+2020-08,Figma,41.54
+2020-09,Figma,42.02
+2020-10,Figma,45.22
+2020-11,Figma,44.13
+2020-12,Figma,45.51
+2021-01,Figma,46.5
+2021-02,Figma,48.63
+2021-03,Figma,48.79
+2021-04,Figma,50.87
+2021-05,Figma,50.53
+2021-06,Figma,52.2
+2021-07,Figma,52.42
+2021-08,Figma,55.5
+2021-09,Figma,54.17
+2021-10,Figma,56.22
+2021-11,Figma,57.44
+2021-12,Figma,58.29
+2022-01,Figma,58.87
+2022-02,Figma,59.91
+2022-03,Figma,61.03
+2022-04,Figma,61.9
+2022-05,Figma,63.67
+2022-06,Figma,65.55
+2022-07,Figma,64.61
+2022-08,Figma,65.04
+2022-09,Figma,66.94
+2022-10,Figma,69.81
+2022-11,Figma,68.44
+2022-12,Figma,71.15
+2023-01,Figma,72.17
+2023-02,Figma,71.61
+2023-03,Figma,73.4
+2023-04,Figma,75.14
+2023-05,Figma,74.73
+2023-06,Figma,75.86
+2023-07,Figma,76.59
+2023-08,Figma,77.29
+2023-09,Figma,78.55
+2023-10,Figma,79.14
+2023-11,Figma,81.02
+2023-12,Figma,81.46
+2024-01,Figma,83.16
+2024-02,Figma,82.91
+2024-03,Figma,85.23
+2024-04,Figma,86.58
+2024-05,Figma,85.6
+2024-06,Figma,88.26
+2024-07,Figma,89.86
+2024-08,Figma,89.15
+2024-09,Figma,92.17
+2024-10,Figma,92.29
+2024-11,Figma,92.51
+2024-12,Figma,93.96
+2020-01,Cybersecurity,28.47
+2020-02,Cybersecurity,29.56
+2020-03,Cybersecurity,31.45
+2020-04,Cybersecurity,31.73
+2020-05,Cybersecurity,34.14
+2020-06,Cybersecurity,34.31
+2020-07,Cybersecurity,36.91
+2020-08,Cybersecurity,37.74
+2020-09,Cybersecurity,39.38
+2020-10,Cybersecurity,42.54
+2020-11,Cybersecurity,43.92
+2020-12,Cybersecurity,45.01
+2021-01,Cybersecurity,45.08
+2021-02,Cybersecurity,47.23
+2021-03,Cybersecurity,50.02
+2021-04,Cybersecurity,50.62
+2021-05,Cybersecurity,53.95
+2021-06,Cybersecurity,53.83
+2021-07,Cybersecurity,55.16
+2021-08,Cybersecurity,56.24
+2021-09,Cybersecurity,58.11
+2021-10,Cybersecurity,59.37
+2021-11,Cybersecurity,61.59
+2021-12,Cybersecurity,63.3
+2022-01,Cybersecurity,63.34
+2022-02,Cybersecurity,64.38
+2022-03,Cybersecurity,65.46
+2022-04,Cybersecurity,68.93
+2022-05,Cybersecurity,69.07
+2022-06,Cybersecurity,69.69
+2022-07,Cybersecurity,73.33
+2022-08,Cybersecurity,76.59
+2022-09,Cybersecurity,75.99
+2022-10,Cybersecurity,78.2
+2022-11,Cybersecurity,79.07
+2022-12,Cybersecurity,80.42
+2023-01,Cybersecurity,82.77
+2023-02,Cybersecurity,83.26
+2023-03,Cybersecurity,85.22
+2023-04,Cybersecurity,86.77
+2023-05,Cybersecurity,87.44
+2023-06,Cybersecurity,90.33
+2023-07,Cybersecurity,90.85
+2023-08,Cybersecurity,91.87
+2023-09,Cybersecurity,94.45
+2023-10,Cybersecurity,94.75
+2023-11,Cybersecurity,97.02
+2023-12,Cybersecurity,98.49
+2024-01,Cybersecurity,100.91
+2024-02,Cybersecurity,101.9
+2024-03,Cybersecurity,102.98
+2024-04,Cybersecurity,105.19
+2024-05,Cybersecurity,107.17
+2024-06,Cybersecurity,107.97
+2024-07,Cybersecurity,109.01
+2024-08,Cybersecurity,109.4
+2024-09,Cybersecurity,111.11
+2024-10,Cybersecurity,113.24
+2024-11,Cybersecurity,114.49
+2024-12,Cybersecurity,116.34
+2020-01,Agile,60.02
+2020-02,Agile,60.49
+2020-03,Agile,60.65
+2020-04,Agile,61.15
+2020-05,Agile,61.35
+2020-06,Agile,61.07
+2020-07,Agile,61.72
+2020-08,Agile,62.29
+2020-09,Agile,62.3
+2020-10,Agile,63.18
+2020-11,Agile,63.79
+2020-12,Agile,64.03
+2021-01,Agile,63.94
+2021-02,Agile,64.78
+2021-03,Agile,64.71
+2021-04,Agile,64.9
+2021-05,Agile,65.15
+2021-06,Agile,65.58
+2021-07,Agile,65.88
+2021-08,Agile,66.38
+2021-09,Agile,66.71
+2021-10,Agile,67.0
+2021-11,Agile,67.46
+2021-12,Agile,68.02
+2022-01,Agile,68.28
+2022-02,Agile,67.89
+2022-03,Agile,67.9
+2022-04,Agile,69.28
+2022-05,Agile,68.92
+2022-06,Agile,69.6
+2022-07,Agile,69.65
+2022-08,Agile,69.79
+2022-09,Agile,70.83
+2022-10,Agile,71.23
+2022-11,Agile,71.16
+2022-12,Agile,70.89
+2023-01,Agile,71.84
+2023-02,Agile,72.45
+2023-03,Agile,72.22
+2023-04,Agile,73.06
+2023-05,Agile,73.33
+2023-06,Agile,73.84
+2023-07,Agile,74.04
+2023-08,Agile,74.04
+2023-09,Agile,75.03
+2023-10,Agile,74.95
+2023-11,Agile,75.33
+2023-12,Agile,75.39
+2024-01,Agile,75.87
+2024-02,Agile,76.07
+2024-03,Agile,76.61
+2024-04,Agile,77.51
+2024-05,Agile,76.92
+2024-06,Agile,77.18
+2024-07,Agile,78.44
+2024-08,Agile,78.27
+2024-09,Agile,78.47
+2024-10,Agile,79.31
+2024-11,Agile,79.15
+2024-12,Agile,80.21
+2020-01,Statistics,45.31
+2020-02,Statistics,45.28
+2020-03,Statistics,46.97
+2020-04,Statistics,46.23
+2020-05,Statistics,47.33
+2020-06,Statistics,47.63
+2020-07,Statistics,48.59
+2020-08,Statistics,49.2
+2020-09,Statistics,49.01
+2020-10,Statistics,49.16
+2020-11,Statistics,50.21
+2020-12,Statistics,50.2
+2021-01,Statistics,51.91
+2021-02,Statistics,51.56
+2021-03,Statistics,51.84
+2021-04,Statistics,52.58
+2021-05,Statistics,52.39
+2021-06,Statistics,53.06
+2021-07,Statistics,54.54
+2021-08,Statistics,54.2
+2021-09,Statistics,54.53
+2021-10,Statistics,55.74
+2021-11,Statistics,56.53
+2021-12,Statistics,56.82
+2022-01,Statistics,57.45
+2022-02,Statistics,57.16
+2022-03,Statistics,57.36
+2022-04,Statistics,59.18
+2022-05,Statistics,58.85
+2022-06,Statistics,59.39
+2022-07,Statistics,60.6
+2022-08,Statistics,60.75
+2022-09,Statistics,61.21
+2022-10,Statistics,62.47
+2022-11,Statistics,61.71
+2022-12,Statistics,62.92
+2023-01,Statistics,63.03
+2023-02,Statistics,63.62
+2023-03,Statistics,64.69
+2023-04,Statistics,64.73
+2023-05,Statistics,65.24
+2023-06,Statistics,65.98
+2023-07,Statistics,65.84
+2023-08,Statistics,66.12
+2023-09,Statistics,66.53
+2023-10,Statistics,66.62
+2023-11,Statistics,68.93
+2023-12,Statistics,68.0
+2024-01,Statistics,68.9
+2024-02,Statistics,69.38
+2024-03,Statistics,70.14
+2024-04,Statistics,70.87
+2024-05,Statistics,71.39
+2024-06,Statistics,71.24
+2024-07,Statistics,71.92
+2024-08,Statistics,72.63
+2024-09,Statistics,72.89
+2024-10,Statistics,74.22
+2024-11,Statistics,74.22
+2024-12,Statistics,74.83
